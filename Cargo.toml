@@ -1,0 +1,10 @@
+[package]
+name = "hw1"
+version = "0.1.0"
+description = "hw1"
+license = "MIT"
+authors = ["Louis Lee <pandawithcat@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bit-vec = "0.6.2"
